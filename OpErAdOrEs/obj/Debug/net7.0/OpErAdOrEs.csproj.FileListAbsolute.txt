@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\bin\Debug\net7.0\OpErAdOrEs.exe
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\bin\Debug\net7.0\OpErAdOrEs.deps.json
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\bin\Debug\net7.0\OpErAdOrEs.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\bin\Debug\net7.0\OpErAdOrEs.dll
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\bin\Debug\net7.0\OpErAdOrEs.pdb
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\OpErAdOrEs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\OpErAdOrEs.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\OpErAdOrEs.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\OpErAdOrEs.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\OpErAdOrEs.dll
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\refint\OpErAdOrEs.dll
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\OpErAdOrEs.pdb
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\OpErAdOrEs.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\Testando-C-\OpErAdOrEs\obj\Debug\net7.0\ref\OpErAdOrEs.dll
