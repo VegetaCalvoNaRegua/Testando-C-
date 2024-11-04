@@ -51,3 +51,9 @@ Console.WriteLine(c&&d);
  bool resultadoo = !aa||(bb && cc);
  Console.WriteLine(resultadoo);
 
+ bool a1 = false;
+ bool b1 = false;
+ bool c1 = false;
+ bool resultado1 = !a1||b1&&c1;
+ Console.WriteLine(resultado1);
+
