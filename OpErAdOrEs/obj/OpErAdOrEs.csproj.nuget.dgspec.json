@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\OpErAdOrEs\\OpErAdOrEs.csproj": {}
+    "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\operadores\\OpErAdOrEs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\OpErAdOrEs\\OpErAdOrEs.csproj": {
+    "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\operadores\\OpErAdOrEs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\OpErAdOrEs\\OpErAdOrEs.csproj",
+        "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\operadores\\OpErAdOrEs.csproj",
         "projectName": "OpErAdOrEs",
-        "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\OpErAdOrEs\\OpErAdOrEs.csproj",
+        "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\operadores\\OpErAdOrEs.csproj",
         "packagesPath": "C:\\Users\\SENAC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\OpErAdOrEs\\obj\\",
+        "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\operadores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
