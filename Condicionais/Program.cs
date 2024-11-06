@@ -31,3 +31,31 @@ else
   Console.WriteLine($"Media {mediaNota:F2}: reprovado!");
 }
 
+
+
+Console.WriteLine("Digite uma vogal:");
+string letra = Console.ReadLine();
+if (letra == "a" || letra == "A")
+{
+  Console.WriteLine($"Voce digitou a vogal: {letra}");
+}
+else if (letra == "u" || letra == "U")
+{
+  Console.WriteLine($"Voce digitou a vogal: {letra}");
+}
+else if (letra == "e" || letra == "E")
+{
+  Console.WriteLine($"Voce digitou a vogal: {letra}");
+}
+else if (letra == "i" || letra == "I")
+{
+  Console.WriteLine($"Voce digitou a vogal: {letra}");
+}
+else if (letra == "o" || letra == "O")
+{
+  Console.WriteLine($"Voce digitou a vogal: {letra}");
+}
+else
+{
+  Console.WriteLine($"A letra {letra} nao eh uma vogal!");
+}
