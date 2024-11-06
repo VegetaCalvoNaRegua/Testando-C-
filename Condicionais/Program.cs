@@ -9,7 +9,25 @@ if (media >= 7)
 }
 else
 {
-  Console.WriteLine($"Media {media:F2} aluno em recuperacao!");
+  Console.WriteLine($"Media {media:F2}; aluno em recuperacao!");
 }
 
+
+
+double nota11 = 3.9;
+double nota22 = 6.1;
+double nota33 = 4.9;
+double mediaNota = (nota11 + nota22 + nota33) / 3;
+if (mediaNota >= 7)
+{
+  Console.WriteLine($"Media {mediaNota:F2}: aprovado!");
+}
+else if (mediaNota >= 5 && mediaNota < 7)
+{
+  Console.WriteLine($"Media {mediaNota:F2}: recuperacao!");
+}
+else 
+{
+  Console.WriteLine($"Media {mediaNota:F2}: reprovado!");
+}
 
