@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\concatenacao\\concatenacao.csproj",
-      "projectName": "concatenacao",
-      "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\concatenacao\\concatenacao.csproj",
+      "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Condicionais\\Condicionais.csproj",
+      "projectName": "Condicionais",
+      "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Condicionais\\Condicionais.csproj",
       "packagesPath": "C:\\Users\\SENAC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\concatenacao\\obj\\",
+      "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Condicionais\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
