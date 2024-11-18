@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutra_de_Dados\\Estrutra_de_Dados.csproj": {}
+    "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutura_de_Dados\\Estrutra_de_Dados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutra_de_Dados\\Estrutra_de_Dados.csproj": {
+    "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutura_de_Dados\\Estrutra_de_Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutra_de_Dados\\Estrutra_de_Dados.csproj",
+        "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutura_de_Dados\\Estrutra_de_Dados.csproj",
         "projectName": "Estrutra_de_Dados",
-        "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutra_de_Dados\\Estrutra_de_Dados.csproj",
+        "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutura_de_Dados\\Estrutra_de_Dados.csproj",
         "packagesPath": "C:\\Users\\SENAC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutra_de_Dados\\obj\\",
+        "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\Testando-C-\\Estrutura_de_Dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
