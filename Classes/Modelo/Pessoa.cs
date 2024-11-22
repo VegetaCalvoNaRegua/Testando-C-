@@ -30,13 +30,13 @@ namespace classes.Modelo
    public void Acelerar()
    {
 
-      Console.WriteLine($"{marca} esta acelerando!");
+      Console.WriteLine($"{marca} {modelo} {ano} esta acelerando!");
    }
 
    public void Freiar()
    {
 
-      Console.WriteLine($"{marca} esta freiando!");
+      Console.WriteLine($"{marca} {modelo} {ano} esta freiando!");
    }
   
   }
