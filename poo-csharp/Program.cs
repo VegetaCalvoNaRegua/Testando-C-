@@ -23,6 +23,10 @@
 // 2. flexibilidade a mudancas internas:
 
 
+// Heranca > permite que novas classes sejam criadas utilizando (herdando) suas caracteristicas e metodos.
+// 
+
+
 
 
 // exercicio 1 > encapsulamento

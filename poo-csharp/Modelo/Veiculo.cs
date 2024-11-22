@@ -22,7 +22,7 @@ namespace poo-csharp.Modelo
 
     }
 
-   //METODOS ACELERAR E FREIAR
+   //METODOS ACELERAR E FREAR
 
    public void Acelerar()
    {
