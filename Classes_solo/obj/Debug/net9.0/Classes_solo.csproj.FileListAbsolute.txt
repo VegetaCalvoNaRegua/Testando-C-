@@ -1,0 +1,15 @@
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\bin\Debug\net9.0\Classes_solo.exe
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\bin\Debug\net9.0\Classes_solo.deps.json
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\bin\Debug\net9.0\Classes_solo.runtimeconfig.json
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\bin\Debug\net9.0\Classes_solo.dll
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\bin\Debug\net9.0\Classes_solo.pdb
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\Classes_solo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\Classes_solo.AssemblyInfoInputs.cache
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\Classes_solo.AssemblyInfo.cs
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\Classes_solo.csproj.CoreCompileInputs.cache
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\Classes_solo.sourcelink.json
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\Classes_solo.dll
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\refint\Classes_solo.dll
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\Classes_solo.pdb
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\Classes_solo.genruntimeconfig.cache
+C:\Users\facet\OneDrive\Documentos\GitHub\Testando-C-\Classes_solo\obj\Debug\net9.0\ref\Classes_solo.dll
