@@ -1,0 +1,4 @@
+C:\Users\SENAC\Documents\GitHub\Testando-C-\poo_csharp\obj\Debug\net7.0\poo_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\Testando-C-\poo_csharp\obj\Debug\net7.0\poo_csharp.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\Testando-C-\poo_csharp\obj\Debug\net7.0\poo_csharp.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\Testando-C-\poo_csharp\obj\Debug\net7.0\poo_csharp.csproj.CoreCompileInputs.cache
